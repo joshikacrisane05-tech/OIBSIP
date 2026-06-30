@@ -31,5 +31,5 @@ The trained model successfully predicts the species of iris flowers and achieves
 
 **Author**
 
-**Joshika**
+**Joshika Crisane**
 Oasis Infobyte Data Science Internship
